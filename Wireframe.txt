@@ -1,0 +1,12 @@
+Wireframe:
+layout: Sticky navigation bar, hero section (Home), grid layout for Projects, centered contact form, and footer.
+
+Wireframe:
+- Header: Sticky navigation (hamburger on mobile, horizontal links on desktop)
+- Home: Centered hero section with heading, bio, and CTA button
+- Projects: Responsive grid (1/2/3 columns based on viewport)
+- Contact: Centered form with name, email, message fields
+- Footer: Copyright text
+Design Mockup:
+Design choices: Tailwind CSS for styling, gray and blue color scheme (bg-gray-100, bg-gray-800, bg-blue-600), modern sans-serif typography, and shadow effects (shadow-lg).
+Responsiveness: Tailwind’s utility classes (sm:, lg:) ensure layout adjustments across devices.
